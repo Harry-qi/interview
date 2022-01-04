@@ -111,3 +111,10 @@ Array.prototype.find = function(fn:Function,obj:object) {
     }
     return res
 };
+
+/**
+ * 柯里化
+ * */ 
+function curry(fn){
+    
+}
